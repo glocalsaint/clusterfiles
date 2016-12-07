@@ -1,0 +1,17 @@
+Modules: loading gcc/4.9.4
+Modules: loading openmpi/gcc/1.10.3
+Modules: loading boost/1.60.0
+[hpa0603:11723] *** Process received signal ***
+[hpa0603:11727] *** Process received signal ***
+[hpa0603:11715] *** Process received signal ***
+[hpa0603:11716] *** Process received signal ***
+[hpa0603:11717] *** Process received signal ***
+[hpa0603:11718] *** Process received signal ***
+[hpa0603:11719] *** Process received signal ***
+[hpa0603:11720] *** Process received signal ***
+[hpa0603:11721] *** Process received signal ***
+[hpa0603:11722] *** Process received signal ***
+[hpa0603:11724] *** Process received signal ***
+[hpa0603:11725] *** Process received signal ***
+[hpa0603:11726] *** Process received signal ***
+[hpa0603:11728] *** Process received signal ***

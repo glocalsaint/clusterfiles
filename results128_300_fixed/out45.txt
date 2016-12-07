@@ -1,0 +1,2156 @@
+Process: 45. Compress time: 9.87
+Process: 45 Individual Time taken to process the files: 238.01
+P:45 before SL VM: 1171.84; RSS: 910860
+
+P:45. Round Number: 0
+P:45 .Sending till680/2564 flwords size: 76448
+P:45 ; EV: TWord: acccessN ;  V: 15 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: allskeletonN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: almullaN ;  V: 7 ;  E: 16
+ T: 0
+P:45 ; EV: TWord: amorousnessN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: anapsidN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: antonellaN ;  V: 70 ;  E: 976
+ T: 0
+P:45 ; EV: TWord: appendicealN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: articulateN ;  V: 222 ;  E: 170
+ T: 0.02
+P:45 ; EV: TWord: assaultN ;  V: 4773 ;  E: 48072
+ T: 5.84
+P:45 ; EV: TWord: athatN ;  V: 7 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: audiometerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: baN ;  V: 1590 ;  E: 267958
+ T: 1.95
+P:45 ; EV: TWord: babesiosisN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: balletN ;  V: 2058 ;  E: 316784
+ T: 2.79
+P:45 ; EV: TWord: barracksN ;  V: 661 ;  E: 738
+ T: 0.12
+P:45 ; EV: TWord: bastaN ;  V: 83 ;  E: 2540
+ T: 0
+P:45 ; EV: TWord: battonageN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: beschikbaarN ;  V: 4 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: bettirN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: biowomenN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: bmwloverN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: bngN ;  V: 16 ;  E: 82
+ T: 0
+P:45 ; EV: TWord: brauchenN ;  V: 10 ;  E: 78
+ T: 0
+P:45 ; EV: TWord: cadN ;  V: 138 ;  E: 140
+ T: 0.01
+P:45 ; EV: TWord: calorimeterN ;  V: 49 ;  E: 60
+ T: 0
+P:45 ; EV: TWord: calotteN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: camâ­paignN ;  V: 3 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: carlsonN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: casinoN ;  V: 3492 ;  E: 391512
+ T: 6.18
+P:45 ; EV: TWord: castorN ;  V: 244 ;  E: 732
+ T: 0.02
+P:45 ; EV: TWord: cathodeN ;  V: 323 ;  E: 558
+ T: 0.02
+P:45 ; EV: TWord: centralityN ;  V: 343 ;  E: 496
+ T: 0.04
+P:45 ; EV: TWord: christologyN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: chronologiqueN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cidreN ;  V: 525 ;  E: 108342
+ T: 0.43
+P:45 ; EV: TWord: ciliogenesisN ;  V: 5 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: coadaptationN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: coccolithophoreN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: codebookN ;  V: 17 ;  E: 70
+ T: 0
+P:45 ; EV: TWord: coltaN ;  V: 10 ;  E: 70
+ T: 0
+P:45 ; EV: TWord: compundN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: concordanciaN ;  V: 4 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: conspiracyN ;  V: 3691 ;  E: 41890
+ T: 3.99
+P:45 ; EV: TWord: contenantN ;  V: 3 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: continentaleN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: con­ven­tionalN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: courtscraperN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: creaciónN ;  V: 20 ;  E: 270
+ T: 0
+P:45 ; EV: TWord: croreN ;  V: 224 ;  E: 294
+ T: 0.02
+P:45 ; EV: TWord: cupperN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cuyaN ;  V: 16 ;  E: 186
+ T: 0
+P:45 ; EV: TWord: dadoN ;  V: 97 ;  E: 1460
+ T: 0
+P:45 ; EV: TWord: damnatoryN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: datapinN ;  V: 9 ;  E: 38
+ T: 0
+P:45 ; EV: TWord: dbdN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: decimalisationN ;  V: 14 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: dedicateN ;  V: 844 ;  E: 2100
+ T: 0.21
+P:45 ; EV: TWord: definitonN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: demystifyN ;  V: 88 ;  E: 34
+ T: 0.01
+P:45 ; EV: TWord: desculpaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: deservingN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: differentiaeN ;  V: 14 ;  E: 16
+ T: 0
+P:45 ; EV: TWord: digitalityN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dirvishN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dosimeterN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dualistN ;  V: 10 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dubyaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: earnhardtN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: eensyN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ejaculationN ;  V: 747 ;  E: 72870
+ T: 0.38
+P:45 ; EV: TWord: embryologistN ;  V: 24 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: emigrationN ;  V: 961 ;  E: 23178
+ T: 0.41
+P:45 ; EV: TWord: engenderN ;  V: 495 ;  E: 536
+ T: 0.06
+P:45 ; EV: TWord: enkindleN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: enter­tain­mentN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: entrepreneuralN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: erewhileN ;  V: 28 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: esearchN ;  V: 21 ;  E: 188
+ T: 0.01
+P:45 ; EV: TWord: estonianN ;  V: 34 ;  E: 20
+ T: 0
+P:45 ; EV: TWord: ethinylestradiolN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: exportadaN ;  V: 33 ;  E: 590
+ T: 0
+P:45 ; EV: TWord: fallibilismN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: farneseneN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: febrifugeN ;  V: 3 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: feetN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: felinaN ;  V: 45 ;  E: 76
+ T: 0
+P:45 ; EV: TWord: fijiN ;  V: 5 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: filhaN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: fillibusterN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: flexerilN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: forbyN ;  V: 15 ;  E: 56
+ T: 0
+P:45 ; EV: TWord: forebodeN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: formicidaN ;  V: 8 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: fougasseN ;  V: 7 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: frisbeeN ;  V: 58 ;  E: 32
+ T: 0
+P:45 ; EV: TWord: frostbittenN ;  V: 6 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: funcrusherN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: funerealN ;  V: 66 ;  E: 28
+ T: 0
+P:45 ; EV: TWord: gasN ;  V: 7904 ;  E: 109092
+ T: 17.15
+P:45 ; EV: TWord: gentooN ;  V: 144 ;  E: 2760
+ T: 0.01
+P:45 ; EV: TWord: gillN ;  V: 640 ;  E: 1564
+ T: 0.1
+P:45 ; EV: TWord: guggletN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hardangerN ;  V: 10 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: hathaN ;  V: 25 ;  E: 22
+ T: 0
+P:45 ; EV: TWord: havinN ;  V: 100 ;  E: 126
+ T: 0
+P:45 ; EV: TWord: heladoN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hereawayN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hitchN ;  V: 508 ;  E: 566
+ T: 0.07
+P:45 ; EV: TWord: holographN ;  V: 19 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: hometownN ;  V: 1976 ;  E: 5704
+ T: 1.29
+P:45 ; EV: TWord: horseplayN ;  V: 6 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: huanN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hulaN ;  V: 108 ;  E: 68
+ T: 0.01
+P:45 ; EV: TWord: iaN ;  V: 178 ;  E: 1026
+ T: 0.01
+P:45 ; EV: TWord: idyllN ;  V: 41 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: immersivenessN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: inelegantN ;  V: 27 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: inshaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: installN ;  V: 399 ;  E: 676
+ T: 0.04
+P:45 ; EV: TWord: intermeddlerN ;  V: 7 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: irrelevancyN ;  V: 49 ;  E: 36
+ T: 0
+P:45 ; EV: TWord: janetrigN ;  V: 9 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: jenmoonN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: kevinN ;  V: 1350 ;  E: 1010238
+ T: 7.76
+P:45 ; EV: TWord: kiwirailN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: launderingN ;  V: 519 ;  E: 940
+ T: 0.08
+P:45 ; EV: TWord: lijktN ;  V: 5 ;  E: 16
+ T: 0
+P:45 ; EV: TWord: lokaleN ;  V: 6 ;  E: 22
+ T: 0
+P:45 ; EV: TWord: lookupN ;  V: 602 ;  E: 1934
+ T: 0.09
+P:45 ; EV: TWord: loveeeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: luminessN ;  V: 1263 ;  E: 1007872
+ T: 3.73
+P:45 ; EV: TWord: lymphotoxinN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: makamN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: mameN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: manisasporN ;  V: 3 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: matchoptN ;  V: 5 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: matrilinealityN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: mbiraN ;  V: 16 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: medicateN ;  V: 29 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: metalloN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: micoN ;  V: 11 ;  E: 58
+ T: 0
+P:45 ; EV: TWord: mikvahN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: mineworkerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: missionN ;  V: 8007 ;  E: 334116
+ T: 17.6
+P:45 ; EV: TWord: misspeakN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: mixN ;  V: 6936 ;  E: 187314
+ T: 14.76
+P:45 ; EV: TWord: monomethylN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: montezumaeN ;  V: 8 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: mundaneN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: médicaN ;  V: 12 ;  E: 108
+ T: 0
+P:45 ; EV: TWord: ndexN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: neurontinN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: newseumN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: niyogN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: noitaminaN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: nonstateN ;  V: 12 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: nosewheelN ;  V: 15 ;  E: 68
+ T: 0
+P:45 ; EV: TWord: noveletteN ;  V: 81 ;  E: 140
+ T: 0.02
+P:45 ; EV: TWord: offrampN ;  V: 7 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: ogeeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: oostateN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: orthodonticsN ;  V: 14 ;  E: 14
+ T: 0
+P:45 ; EV: TWord: overlineN ;  V: 55 ;  E: 40
+ T: 0
+P:45 ; EV: TWord: overviewN ;  V: 2975 ;  E: 11780
+ T: 2.93
+P:45 ; EV: TWord: oweverN ;  V: 19 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: painoN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: parrishN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pascháleN ;  V: 5 ;  E: 14
+ T: 0
+P:45 ; EV: TWord: paulyN ;  V: 3 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: pelorusN ;  V: 11 ;  E: 22
+ T: 0
+P:45 ; EV: TWord: penitenteN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: phenobarbitoneN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: plunkN ;  V: 36 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: pobN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: politypopN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: postpositionN ;  V: 7 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: ppN ;  V: 2716 ;  E: 329678
+ T: 4.04
+P:45 ; EV: TWord: ppkN ;  V: 3 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: prboomN ;  V: 16 ;  E: 36
+ T: 0
+P:45 ; EV: TWord: preservativeN ;  V: 377 ;  E: 1398
+ T: 0.05
+P:45 ; EV: TWord: principaliN ;  V: 5 ;  E: 20
+ T: 0
+P:45 ; EV: TWord: profesionaleN ;  V: 89 ;  E: 3900
+ T: 0
+P:45 ; EV: TWord: pronunciationN ;  V: 1440 ;  E: 4472
+ T: 0.65
+P:45 ; EV: TWord: prosperN ;  V: 9 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: protozoalN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pygostyleN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: quadcopterN ;  V: 8 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: quiescenceN ;  V: 94 ;  E: 54
+ T: 0
+P:45 ; EV: TWord: quinquefoliumN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: radicularN ;  V: 13 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: rapeseedN ;  V: 35 ;  E: 56
+ T: 0
+P:45 ; EV: TWord: rashtriyaN ;  V: 27 ;  E: 54
+ T: 0
+P:45 ; EV: TWord: regolaN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: reincarnateN ;  V: 34 ;  E: 14
+ T: 0.01
+P:45 ; EV: TWord: repealerN ;  V: 31 ;  E: 24
+ T: 0
+P:45 ; EV: TWord: repenteN ;  V: 5 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: retinaN ;  V: 685 ;  E: 1374
+ T: 0.12
+P:45 ; EV: TWord: rhmN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ribN ;  V: 2256 ;  E: 35602
+ T: 1.44
+P:45 ; EV: TWord: rollotomasiN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: rpetN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: rudistN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: régimeN ;  V: 50 ;  E: 88
+ T: 0
+P:45 ; EV: TWord: saharaN ;  V: 373 ;  E: 26668
+ T: 0.1
+P:45 ; EV: TWord: salutoryN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: scientitcN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: seigeN ;  V: 8 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: settlingN ;  V: 51 ;  E: 32
+ T: 0
+P:45 ; EV: TWord: sillageN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: skeppsbronN ;  V: 7 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: sorusN ;  V: 40 ;  E: 260
+ T: 0
+P:45 ; EV: TWord: speciallN ;  V: 8 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: specifityN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: spectatorialN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: spermatozoonN ;  V: 19 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: stracciatellaN ;  V: 6 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: successionN ;  V: 2818 ;  E: 7472
+ T: 2.18
+P:45 ; EV: TWord: talkcastN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tartoussiN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tdfN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tecnologieN ;  V: 789 ;  E: 182966
+ T: 0.97
+P:45 ; EV: TWord: thoạiN ;  V: 81 ;  E: 1278
+ T: 0
+P:45 ; EV: TWord: threadyN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: thsN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: thungN ;  V: 3 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: tneloivN ;  V: 6 ;  E: 28
+ T: 0
+P:45 ; EV: TWord: touristiqueN ;  V: 133 ;  E: 6758
+ T: 0.02
+P:45 ; EV: TWord: tradizionaliN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: trafficN ;  V: 6752 ;  E: 51860
+ T: 10.98
+P:45 ; EV: TWord: trainingactionN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tutN ;  V: 42 ;  E: 30
+ T: 0.01
+P:45 ; EV: TWord: understeerN ;  V: 6 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: urethroplastyN ;  V: 4 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: uxindexN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: vaughanN ;  V: 649 ;  E: 301566
+ T: 1.37
+P:45 ; EV: TWord: vegfN ;  V: 8 ;  E: 14
+ T: 0
+P:45 ; EV: TWord: veriN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: versieN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: vibratoryN ;  V: 23 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: vilayetN ;  V: 6 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: volevoN ;  V: 7 ;  E: 14
+ T: 0
+P:45 ; EV: TWord: völkischeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: washdayN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: wellâN ;  V: 3 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: weseethatN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: widgettopagecontentN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: womynpriestN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: woohooN ;  V: 8 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: wordpadN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: zerglingN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: zofingenN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: μiuN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: هُمْN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: وفيN ;  V: 24 ;  E: 524
+ T: 0
+P:45 ; EV: TWord: আমারN ;  V: 23 ;  E: 264
+ T: 0
+P:45 ; EV: TWord: মতN ;  V: 8 ;  E: 52
+ T: 0
+P:45 ; EV: TWord: ⅜N ;  V: 23 ;  E: 122
+ T: 0
+P:45 ; EV: TWord: よりN ;  V: 4 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: アウトレットN ;  V: 6 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: 其實N ;  V: 7 ;  E: 40
+ T: 0
+P:45 ; EV: TWord: 最新文章N ;  V: 18 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: 開N ;  V: 102 ;  E: 4030
+ T: 0.01
+P:45 ; EV: TWord: 다음에N ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ﬁtN ;  V: 0 ;  E: 0
+ T: 0
+P:45 VM: 2057.21; RSS: 1.6689e+06
+
+P:45. Round Number: 1
+P:45 .Sending till1353/2564 flwords size: 71905
+P:45 ; EV: TWord: aceitarN ;  V: 4 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: acidentN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: aftonbladetN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: aircondN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: almanacN ;  V: 287 ;  E: 478
+ T: 0.06
+P:45 ; EV: TWord: amarylliN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: andthatN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ansdN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: análisisN ;  V: 113 ;  E: 2492
+ T: 0
+P:45 ; EV: TWord: apnoeaN ;  V: 3 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: aramidN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: archaeopteryxN ;  V: 26 ;  E: 46
+ T: 0
+P:45 ; EV: TWord: archdruidN ;  V: 4 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: archimedeN ;  V: 13 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: arrestN ;  V: 3726 ;  E: 24850
+ T: 4.17
+P:45 ; EV: TWord: aspersionN ;  V: 54 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: astheniaN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: attainmentN ;  V: 1315 ;  E: 69432
+ T: 0.86
+P:45 ; EV: TWord: availabiltyN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: avataraN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: backeN ;  V: 112 ;  E: 608
+ T: 0.01
+P:45 ; EV: TWord: bangN ;  V: 1604 ;  E: 3860
+ T: 0.74
+P:45 ; EV: TWord: baratoN ;  V: 49 ;  E: 200
+ T: 0
+P:45 ; EV: TWord: bbpressN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: bcdtodecN ;  V: 7 ;  E: 24
+ T: 0
+P:45 ; EV: TWord: bedfordN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: bellicosityN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: blondenessN ;  V: 5 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: bosqueN ;  V: 26 ;  E: 306
+ T: 0
+P:45 ; EV: TWord: botherN ;  V: 625 ;  E: 1400
+ T: 0.12
+P:45 ; EV: TWord: braidN ;  V: 411 ;  E: 532
+ T: 0.07
+P:45 ; EV: TWord: breadfruitN ;  V: 58 ;  E: 90
+ T: 0
+P:45 ; EV: TWord: burglarizeN ;  V: 38 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: bürgermeisterN ;  V: 2 ;  E: 0
+ T: 0.01
+P:45 ; EV: TWord: canadienneN ;  V: 13 ;  E: 34
+ T: 0
+P:45 ; EV: TWord: cannibiN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: canonicalN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cereN ;  V: 17 ;  E: 16
+ T: 0
+P:45 ; EV: TWord: chaloN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: chelatorN ;  V: 6 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: childfreeN ;  V: 19 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: chorusN ;  V: 2421 ;  E: 7352
+ T: 1.68
+P:45 ; EV: TWord: choughN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cirrhosisN ;  V: 171 ;  E: 408
+ T: 0.01
+P:45 ; EV: TWord: civillianN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: clonkN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: coinvolgimentoN ;  V: 762 ;  E: 181562
+ T: 0.95
+P:45 ; EV: TWord: commenN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: contactinN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: contraceptN ;  V: 5 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: corkyN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: coroplastN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cor­po­ra­tionsN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: couvrirN ;  V: 11 ;  E: 60
+ T: 0
+P:45 ; EV: TWord: coverletN ;  V: 86 ;  E: 48
+ T: 0.01
+P:45 ; EV: TWord: damianN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: darwinianN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: deumN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dinasaurN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: diskoN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dis­easeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: documentnameN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dodgeN ;  V: 74 ;  E: 34
+ T: 0
+P:45 ; EV: TWord: donnaN ;  V: 1453 ;  E: 1511738
+ T: 13.44
+P:45 ; EV: TWord: double‑faultsN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: doughballN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: duenN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: duploN ;  V: 8 ;  E: 50
+ T: 0
+P:45 ; EV: TWord: décadaN ;  V: 134 ;  E: 6586
+ T: 0.02
+P:45 ; EV: TWord: défilerN ;  V: 32 ;  E: 664
+ T: 0
+P:45 ; EV: TWord: ebullitionN ;  V: 13 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: educabilityN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: eggwhiteN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: egmaiN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: emergentismN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: encyclicalN ;  V: 63 ;  E: 50
+ T: 0
+P:45 ; EV: TWord: endurnýtinguN ;  V: 24 ;  E: 524
+ T: 0
+P:45 ; EV: TWord: episcopalianN ;  V: 11 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: eqeN ;  V: 11 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: esteemeN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: euroipodN ;  V: 12 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: eurypteridN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: evaelN ;  V: 5 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: evanescenceN ;  V: 31 ;  E: 98
+ T: 0
+P:45 ; EV: TWord: extirpateN ;  V: 16 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: fas­cismN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: feedstockN ;  V: 227 ;  E: 430
+ T: 0.02
+P:45 ; EV: TWord: fieldsetN ;  V: 133 ;  E: 854
+ T: 0
+P:45 ; EV: TWord: finalizationN ;  V: 26 ;  E: 22
+ T: 0
+P:45 ; EV: TWord: fireN ;  V: 13136 ;  E: 1674536
+ T: 49.64
+P:45 ; EV: TWord: fisicaN ;  V: 4 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: formalismN ;  V: 400 ;  E: 818
+ T: 0.12
+P:45 ; EV: TWord: forwarderN ;  V: 90 ;  E: 74
+ T: 0
+P:45 ; EV: TWord: freightN ;  V: 1409 ;  E: 3384
+ T: 0.61
+P:45 ; EV: TWord: friendlyN ;  V: 42 ;  E: 94
+ T: 0
+P:45 ; EV: TWord: generiqueN ;  V: 81 ;  E: 1432
+ T: 0.01
+P:45 ; EV: TWord: geniN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: gramaN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gratoN ;  V: 1336 ;  E: 384134
+ T: 2.41
+P:45 ; EV: TWord: gudesireN ;  V: 44 ;  E: 132
+ T: 0
+P:45 ; EV: TWord: guerlainN ;  V: 49 ;  E: 870
+ T: 0.01
+P:45 ; EV: TWord: habetN ;  V: 21 ;  E: 70
+ T: 0
+P:45 ; EV: TWord: halfbackN ;  V: 153 ;  E: 506
+ T: 0
+P:45 ; EV: TWord: handcartN ;  V: 7 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hcnerfN ;  V: 3 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: hescN ;  V: 6 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: hiltonN ;  V: 1281 ;  E: 379126
+ T: 2.45
+P:45 ; EV: TWord: htcN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hyderabadN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: icommonN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ifaceN ;  V: 65 ;  E: 300
+ T: 0
+P:45 ; EV: TWord: imentN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: incorruptibilityN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: inducciónN ;  V: 23 ;  E: 270
+ T: 0
+P:45 ; EV: TWord: inspiraciónN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: interdisciplinarityN ;  V: 218 ;  E: 5098
+ T: 0.02
+P:45 ; EV: TWord: intermedioN ;  V: 26 ;  E: 376
+ T: 0
+P:45 ; EV: TWord: intol­er­ancesN ;  V: 10 ;  E: 78
+ T: 0
+P:45 ; EV: TWord: ionN ;  V: 1942 ;  E: 8290
+ T: 1.05
+P:45 ; EV: TWord: ipstrN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: joyriderN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: jrjacobN ;  V: 11 ;  E: 22
+ T: 0
+P:45 ; EV: TWord: keyguardN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: lacinatoN ;  V: 16 ;  E: 62
+ T: 0
+P:45 ; EV: TWord: landpowerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: laparoscopyN ;  V: 114 ;  E: 180
+ T: 0
+P:45 ; EV: TWord: leaderboardN ;  V: 57 ;  E: 42
+ T: 0.01
+P:45 ; EV: TWord: lennonN ;  V: 1447 ;  E: 1511604
+ T: 13.41
+P:45 ; EV: TWord: lentowerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: liberationN ;  V: 2102 ;  E: 14336
+ T: 1.41
+P:45 ; EV: TWord: lightblueN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: liloN ;  V: 38 ;  E: 74
+ T: 0
+P:45 ; EV: TWord: majusculeN ;  V: 15 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: marathusN ;  V: 6 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: masterpointN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: melangeN ;  V: 1299 ;  E: 1008606
+ T: 7.91
+P:45 ; EV: TWord: metalworkN ;  V: 117 ;  E: 156
+ T: 0.01
+P:45 ; EV: TWord: minusculeN ;  V: 5 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: mongoliensisN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: motacillidaN ;  V: 8 ;  E: 48
+ T: 0
+P:45 ; EV: TWord: mountaineerN ;  V: 533 ;  E: 996
+ T: 0.09
+P:45 ; EV: TWord: muensterN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: muestreoN ;  V: 8 ;  E: 54
+ T: 0
+P:45 ; EV: TWord: mulleinN ;  V: 3 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: mullerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: multiprocessN ;  V: 7 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: myositisN ;  V: 15 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: myrN ;  V: 198 ;  E: 178
+ T: 0.01
+P:45 ; EV: TWord: müllerN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: nbeforeN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: neanderthalN ;  V: 205 ;  E: 298
+ T: 0.01
+P:45 ; EV: TWord: neenerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: negroponteN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: neuterN ;  V: 162 ;  E: 272
+ T: 0.01
+P:45 ; EV: TWord: nigelN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: nihilismN ;  V: 277 ;  E: 2688
+ T: 0.03
+P:45 ; EV: TWord: northernvoiceN ;  V: 184 ;  E: 15498
+ T: 0.05
+P:45 ; EV: TWord: notableN ;  V: 242 ;  E: 278
+ T: 0.01
+P:45 ; EV: TWord: notvalidvalueshashN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: oafN ;  V: 14 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: occupationalN ;  V: 1132 ;  E: 5740
+ T: 0.42
+P:45 ; EV: TWord: octinoxateN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: oliN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: organizN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: orotidineN ;  V: 4 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: paramourN ;  V: 89 ;  E: 94
+ T: 0
+P:45 ; EV: TWord: particularistN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: passimN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pathologyN ;  V: 1278 ;  E: 3910
+ T: 0.5
+P:45 ; EV: TWord: pechaN ;  V: 3 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: pedlerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: peoplN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pgceN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: phN ;  V: 1363 ;  E: 5334
+ T: 0.54
+P:45 ; EV: TWord: piccoleN ;  V: 4 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: picquetN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pierrotN ;  V: 48 ;  E: 60
+ T: 0.01
+P:45 ; EV: TWord: pifN ;  V: 13 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: pkwyN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: plumcakeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pohN ;  V: 6 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: postcyberpunkN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: proidentN ;  V: 14 ;  E: 160
+ T: 0
+P:45 ; EV: TWord: pronucleiN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: protocellN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: provenientiN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: puppycockN ;  V: 28 ;  E: 226
+ T: 0
+P:45 ; EV: TWord: purgativeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pyriteN ;  V: 34 ;  E: 30
+ T: 0
+P:45 ; EV: TWord: quadricolorN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: quelloN ;  V: 76 ;  E: 1100
+ T: 0
+P:45 ; EV: TWord: qvN ;  V: 7 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: randomisierteN ;  V: 5 ;  E: 14
+ T: 0
+P:45 ; EV: TWord: reformyN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: religionismN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: reliquishN ;  V: 9 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: rementN ;  V: 6 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: rendezN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: renesmeeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: reoccupationN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: rippN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: robusticityN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: rungN ;  V: 70 ;  E: 46
+ T: 0
+P:45 ; EV: TWord: runnngN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: runrigN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: safemodeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: saladN ;  V: 3633 ;  E: 139350
+ T: 4.15
+P:45 ; EV: TWord: sandoverN ;  V: 9 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: sarveN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: scenerioN ;  V: 7 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: schoolfriendN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: sci­enceN ;  V: 5 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: screenscapeN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: sec­ondN ;  V: 3 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: sedanN ;  V: 527 ;  E: 872
+ T: 0.11
+P:45 ; EV: TWord: sendfileN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: shadbushN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: shiftkeyN ;  V: 6 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: shiteN ;  V: 177 ;  E: 196
+ T: 0.01
+P:45 ; EV: TWord: simulatorN ;  V: 719 ;  E: 982
+ T: 0.15
+P:45 ; EV: TWord: sitaristN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: smaragdN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: snuggieN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: souldierN ;  V: 12 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: spikefarmN ;  V: 8 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: spiteN ;  V: 4712 ;  E: 12008
+ T: 4.57
+P:45 ; EV: TWord: staurosporineN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: steroN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: striploinN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: substrN ;  V: 40 ;  E: 30
+ T: 0
+P:45 ; EV: TWord: suburbiaN ;  V: 196 ;  E: 182
+ T: 0.01
+P:45 ; EV: TWord: subventionN ;  V: 7 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: suctionN ;  V: 259 ;  E: 196
+ T: 0.02
+P:45 ; EV: TWord: sudsN ;  V: 23 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: sufismN ;  V: 55 ;  E: 36
+ T: 0
+P:45 ; EV: TWord: sumãN ;  V: 10 ;  E: 24
+ T: 0
+P:45 ; EV: TWord: sunlitN ;  V: 202 ;  E: 82
+ T: 0.01
+P:45 ; EV: TWord: suoicsnocnuN ;  V: 4 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: superawesomeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: supercatN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: sìosN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: tackiestN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tagliataN ;  V: 3 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: tanganyikaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tenminN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tlonN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tomatoN ;  V: 3802 ;  E: 107144
+ T: 4.14
+P:45 ; EV: TWord: transparenciaN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: treehouseN ;  V: 69 ;  E: 108
+ T: 0
+P:45 ; EV: TWord: turbografxN ;  V: 35 ;  E: 46
+ T: 0
+P:45 ; EV: TWord: tutelarN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tyreN ;  V: 399 ;  E: 320
+ T: 0.07
+P:45 ; EV: TWord: uncircumcisionN ;  V: 5 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: undertakingN ;  V: 976 ;  E: 1454
+ T: 0.27
+P:45 ; EV: TWord: unenglishN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: unpentN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: unumN ;  V: 17 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: uomoN ;  V: 37 ;  E: 372
+ T: 0
+P:45 ; EV: TWord: urinateN ;  V: 145 ;  E: 174
+ T: 0
+P:45 ; EV: TWord: vancouverviewN ;  V: 184 ;  E: 15498
+ T: 0.04
+P:45 ; EV: TWord: varveN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: vasculitideN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: velvetyN ;  V: 315 ;  E: 388
+ T: 0.04
+P:45 ; EV: TWord: viscoseN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: visionN ;  V: 9251 ;  E: 1677778
+ T: 33.14
+P:45 ; EV: TWord: vogtN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: vscN ;  V: 7 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: wehreN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: whingerN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: winnieN ;  V: 26 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: woneN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: yaayN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ybaN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: yuraN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: zufälligN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: أمرN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: تكنN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: جداN ;  V: 6 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: යකN ;  V: 5 ;  E: 20
+ T: 0
+P:45 ; EV: TWord: 以及N ;  V: 4 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: 속N ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: 이야기N ;  V: 9 ;  E: 10
+ T: 0
+P:45 VM: 2176.55; RSS: 1.87708e+06
+
+P:45. Round Number: 2
+P:45 .Sending till2102/2564 flwords size: 70016
+P:45 ; EV: TWord: achaN ;  V: 10 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: adoptationN ;  V: 19 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: adverbN ;  V: 181 ;  E: 308
+ T: 0.01
+P:45 ; EV: TWord: africanN ;  V: 2566 ;  E: 1314564
+ T: 11.46
+P:45 ; EV: TWord: alioN ;  V: 6 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: alteraN ;  V: 5 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: altoidN ;  V: 5 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: ambiantN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: amphoraeN ;  V: 31 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: amplestN ;  V: 15 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: anathematizeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: antelopeN ;  V: 434 ;  E: 790
+ T: 0.14
+P:45 ; EV: TWord: armisticeN ;  V: 275 ;  E: 388
+ T: 0.09
+P:45 ; EV: TWord: arthritisN ;  V: 772 ;  E: 2046
+ T: 0.18
+P:45 ; EV: TWord: assasinationN ;  V: 10 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: aucklandN ;  V: 5 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: autopartN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: babblerN ;  V: 64 ;  E: 392
+ T: 0.01
+P:45 ; EV: TWord: backhaulN ;  V: 32 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: beschreibenN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: betyarN ;  V: 1392 ;  E: 1506866
+ T: 13.03
+P:45 ; EV: TWord: bevyN ;  V: 211 ;  E: 170
+ T: 0.01
+P:45 ; EV: TWord: bikieN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: blvN ;  V: 7 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: bomohN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: bonfireN ;  V: 658 ;  E: 2366
+ T: 0.17
+P:45 ; EV: TWord: bristlebotN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: bruneN ;  V: 107 ;  E: 3188
+ T: 0.01
+P:45 ; EV: TWord: buffertimeN ;  V: 6 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: buffonN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: bulimulidaN ;  V: 13 ;  E: 92
+ T: 0
+P:45 ; EV: TWord: cantabileN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: carabidaN ;  V: 4 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: cbeebyN ;  V: 11 ;  E: 16
+ T: 0
+P:45 ; EV: TWord: ccessN ;  V: 6 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: chargeN ;  V: 9151 ;  E: 56822
+ T: 17.45
+P:45 ; EV: TWord: charitéN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: chatterboxN ;  V: 8 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: cirugíaN ;  V: 26 ;  E: 418
+ T: 0.01
+P:45 ; EV: TWord: cognateN ;  V: 370 ;  E: 2962
+ T: 0.11
+P:45 ; EV: TWord: colgatesportN ;  V: 20 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: conceptualistN ;  V: 26 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: condemnerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: condescensionN ;  V: 321 ;  E: 158
+ T: 0.09
+P:45 ; EV: TWord: conscientiousnessN ;  V: 31 ;  E: 30
+ T: 0
+P:45 ; EV: TWord: conservN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: contenueN ;  V: 3 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: correttaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: corstenN ;  V: 4 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: coun­ter­partsN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: criminationN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: currentswitchN ;  V: 16 ;  E: 80
+ T: 0
+P:45 ; EV: TWord: cyberfriendN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cyclophoridaN ;  V: 7 ;  E: 36
+ T: 0
+P:45 ; EV: TWord: cystectomyN ;  V: 16 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: cálidosN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cómodoN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: dargN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: davidcrowN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: debarN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: decimateN ;  V: 84 ;  E: 44
+ T: 0
+P:45 ; EV: TWord: desugarN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dewberryN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dichloromethaneN ;  V: 16 ;  E: 22
+ T: 0
+P:45 ; EV: TWord: didrexN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: disapprovalN ;  V: 661 ;  E: 962
+ T: 0.12
+P:45 ; EV: TWord: disponibiliN ;  V: 6 ;  E: 24
+ T: 0
+P:45 ; EV: TWord: distinctionN ;  V: 4967 ;  E: 25622
+ T: 6.38
+P:45 ; EV: TWord: dodoN ;  V: 77 ;  E: 66
+ T: 0
+P:45 ; EV: TWord: donchaknowN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dondurmaN ;  V: 5 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: dooN ;  V: 98 ;  E: 84
+ T: 0
+P:45 ; EV: TWord: douaN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dtamN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: eamcetN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: earthbagN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: eaveN ;  V: 21 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: efficentN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: effluxN ;  V: 57 ;  E: 136
+ T: 0
+P:45 ; EV: TWord: egplN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: endersdadN ;  V: 9 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: enqueueN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: environmentalismN ;  V: 629 ;  E: 23100
+ T: 0.22
+P:45 ; EV: TWord: espiritualN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: essentialistN ;  V: 67 ;  E: 34
+ T: 0
+P:45 ; EV: TWord: eubacteriaN ;  V: 13 ;  E: 24
+ T: 0
+P:45 ; EV: TWord: exactestN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: exibidoN ;  V: 21 ;  E: 294
+ T: 0
+P:45 ; EV: TWord: fernandezN ;  V: 1392 ;  E: 1506866
+ T: 13.69
+P:45 ; EV: TWord: ferrihydriteN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: firerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: flistN ;  V: 89 ;  E: 1574
+ T: 0.01
+P:45 ; EV: TWord: flyleafN ;  V: 13 ;  E: 42
+ T: 0
+P:45 ; EV: TWord: forefeetN ;  V: 11 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: formulaeN ;  V: 264 ;  E: 562
+ T: 0.04
+P:45 ; EV: TWord: fortressN ;  V: 1690 ;  E: 3036
+ T: 0.86
+P:45 ; EV: TWord: frizzN ;  V: 16 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: gabillionN ;  V: 20 ;  E: 68
+ T: 0
+P:45 ; EV: TWord: gabonensisN ;  V: 6 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: galactanN ;  V: 7 ;  E: 20
+ T: 0
+P:45 ; EV: TWord: garethN ;  V: 1263 ;  E: 1007872
+ T: 7.92
+P:45 ; EV: TWord: gehörenN ;  V: 4 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: geikoN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gfortranN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gigapanN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: givewayN ;  V: 1263 ;  E: 1007872
+ T: 8.12
+P:45 ; EV: TWord: glaucophyllumN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: glcalllistN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: goldtoneN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: goodneN ;  V: 25 ;  E: 156
+ T: 0
+P:45 ; EV: TWord: gothamistN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: grimoireN ;  V: 23 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: groperN ;  V: 7 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: großeN ;  V: 43 ;  E: 794
+ T: 0
+P:45 ; EV: TWord: gtbN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gulN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gàidhligN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hatyaN ;  V: 31 ;  E: 408
+ T: 0
+P:45 ; EV: TWord: hippinN ;  V: 4 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: hnymanN ;  V: 11 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: horribiliN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hpwN ;  V: 4 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: hsioyrtN ;  V: 3 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: hypaspistN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ilessonN ;  V: 8 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: illinN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: imagedataN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: imechanicaN ;  V: 7 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: imidazoliumN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: indebtednessN ;  V: 410 ;  E: 1074
+ T: 0.12
+P:45 ; EV: TWord: initiaN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: inkingN ;  V: 98 ;  E: 56
+ T: 0.01
+P:45 ; EV: TWord: innernetN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: inquiryN ;  V: 4075 ;  E: 18106
+ T: 3.88
+P:45 ; EV: TWord: intutionN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: iomegaN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ioportN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: isevenN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: isizuluN ;  V: 25 ;  E: 372
+ T: 0
+P:45 ; EV: TWord: isnessN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: itteeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: iżN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: jewelerN ;  V: 181 ;  E: 170
+ T: 0.01
+P:45 ; EV: TWord: jeziäN ;  V: 13 ;  E: 58
+ T: 0
+P:45 ; EV: TWord: juuliN ;  V: 17 ;  E: 136
+ T: 0
+P:45 ; EV: TWord: karanganN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: kesanN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: khandaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: killifishN ;  V: 16 ;  E: 22
+ T: 0
+P:45 ; EV: TWord: kingmakerN ;  V: 25 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: knitwearN ;  V: 23 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: knowabilityN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: kobzarN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: kommN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: kulturaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: landroniN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: languidgeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: latiumN ;  V: 14 ;  E: 84
+ T: 0
+P:45 ; EV: TWord: leaN ;  V: 1334 ;  E: 1008982
+ T: 8.02
+P:45 ; EV: TWord: leavnigN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: legerdemainN ;  V: 22 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: libiwinfoN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: lindwormN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: lissomN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: loadaN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: locatorN ;  V: 1263 ;  E: 3222
+ T: 0.53
+P:45 ; EV: TWord: lucenN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: luvvyN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: macaddrN ;  V: 15 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: maesterN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: mainmastN ;  V: 25 ;  E: 30
+ T: 0
+P:45 ; EV: TWord: marijuannaN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: marshN ;  V: 2561 ;  E: 1532176
+ T: 15.23
+P:45 ; EV: TWord: masculinN ;  V: 992 ;  E: 304256
+ T: 1.73
+P:45 ; EV: TWord: materialeN ;  V: 41 ;  E: 606
+ T: 0
+P:45 ; EV: TWord: matzaN ;  V: 169 ;  E: 5610
+ T: 0.02
+P:45 ; EV: TWord: megabankN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: microdriveN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: milleniumN ;  V: 108 ;  E: 92
+ T: 0.01
+P:45 ; EV: TWord: modernismN ;  V: 900 ;  E: 23070
+ T: 0.38
+P:45 ; EV: TWord: multibyteN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: musickN ;  V: 18 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: mutismN ;  V: 11 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: naperyN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: natureN ;  V: 15346 ;  E: 474028
+ T: 46.43
+P:45 ; EV: TWord: neednaN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: nizN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: nmediumN ;  V: 86 ;  E: 212
+ T: 0.01
+P:45 ; EV: TWord: nucleosomeN ;  V: 87 ;  E: 326
+ T: 0
+P:45 ; EV: TWord: numoN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: nutterN ;  V: 86 ;  E: 52
+ T: 0
+P:45 ; EV: TWord: nyoN ;  V: 57 ;  E: 664
+ T: 0
+P:45 ; EV: TWord: nzN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: obsoleteN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: obtusataN ;  V: 4 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: onerN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: orangishN ;  V: 13 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: ornithischianN ;  V: 12 ;  E: 14
+ T: 0
+P:45 ; EV: TWord: osgiN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ospreyN ;  V: 89 ;  E: 158
+ T: 0.01
+P:45 ; EV: TWord: othN ;  V: 46 ;  E: 90
+ T: 0
+P:45 ; EV: TWord: paintcomponentN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: palaeographyN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: palavelumN ;  V: 6 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: parisienN ;  V: 717 ;  E: 241636
+ T: 1.28
+P:45 ; EV: TWord: patdownN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: patronalN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: percarbonateN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: peremptorinessN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pharmacogeneticN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: phisaliN ;  V: 23 ;  E: 442
+ T: 0
+P:45 ; EV: TWord: pingalaN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pintxoN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: pippinN ;  V: 10 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: pkgnameN ;  V: 5 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: plasticidadN ;  V: 3 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: pliancyN ;  V: 3 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: policemenN ;  V: 633 ;  E: 602
+ T: 0.15
+P:45 ; EV: TWord: pourrezN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: pppoeN ;  V: 9 ;  E: 20
+ T: 0
+P:45 ; EV: TWord: presiN ;  V: 6 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: printenvN ;  V: 78 ;  E: 814
+ T: 0
+P:45 ; EV: TWord: productbundleN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: promedioN ;  V: 32 ;  E: 562
+ T: 0.01
+P:45 ; EV: TWord: promptitudeN ;  V: 37 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: propafenoneN ;  V: 6 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: prostheticN ;  V: 951 ;  E: 188112
+ T: 1.17
+P:45 ; EV: TWord: psychosexualN ;  V: 17 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: raggyN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: razziaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: redepositN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: refernceN ;  V: 5 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: regardethN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: reintroduceN ;  V: 76 ;  E: 60
+ T: 0
+P:45 ; EV: TWord: residenciaN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: retenciónN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: retentionistN ;  V: 5 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: righteyeN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ringenN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: romanescoN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: rookwoodN ;  V: 86 ;  E: 4372
+ T: 0.01
+P:45 ; EV: TWord: ropenN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: santapauiN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: savingN ;  V: 543 ;  E: 574
+ T: 0.1
+P:45 ; EV: TWord: saxN ;  V: 286 ;  E: 986
+ T: 0.05
+P:45 ; EV: TWord: schoolmistressN ;  V: 20 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: seychelleN ;  V: 65 ;  E: 108
+ T: 0
+P:45 ; EV: TWord: shadestickN ;  V: 67 ;  E: 1004
+ T: 0
+P:45 ; EV: TWord: showscoreN ;  V: 8 ;  E: 14
+ T: 0
+P:45 ; EV: TWord: siglaN ;  V: 10 ;  E: 90
+ T: 0
+P:45 ; EV: TWord: silentioN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: situN ;  V: 447 ;  E: 988
+ T: 0.11
+P:45 ; EV: TWord: slacknessN ;  V: 22 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: sluiceN ;  V: 90 ;  E: 56
+ T: 0
+P:45 ; EV: TWord: snotN ;  V: 181 ;  E: 120
+ T: 0.01
+P:45 ; EV: TWord: soberestN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: socaN ;  V: 42 ;  E: 158
+ T: 0
+P:45 ; EV: TWord: solenoidN ;  V: 36 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: somethN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: specialistN ;  V: 5010 ;  E: 1051210
+ T: 15.59
+P:45 ; EV: TWord: speedwellN ;  V: 5 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: spellbookN ;  V: 16 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: stereogramN ;  V: 8 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: stickmanN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: stormwindN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: strudelN ;  V: 68 ;  E: 262
+ T: 0
+P:45 ; EV: TWord: stuhN ;  V: 9 ;  E: 56
+ T: 0
+P:45 ; EV: TWord: subletN ;  V: 12 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: subserviantN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: summitryN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: supernaturalistN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: suppliantN ;  V: 81 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: syncytialN ;  V: 13 ;  E: 46
+ T: 0
+P:45 ; EV: TWord: tamesideN ;  V: 8 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: taobhN ;  V: 12 ;  E: 82
+ T: 0
+P:45 ; EV: TWord: techniekN ;  V: 8 ;  E: 32
+ T: 0
+P:45 ; EV: TWord: thachairN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: theageneN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: thumbstickN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tllN ;  V: 5 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: tmparrayN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: topsiteN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: trashcontentzN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tridenN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tritoneN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: trondheimsfjordN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tukumN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ughhhN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ummaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: unexpectantN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: unroadworthyN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: upliftN ;  V: 434 ;  E: 538
+ T: 0.1
+P:45 ; EV: TWord: urbaniteN ;  V: 45 ;  E: 28
+ T: 0
+P:45 ; EV: TWord: valvuloplastyN ;  V: 6 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: variedadN ;  V: 16 ;  E: 210
+ T: 0
+P:45 ; EV: TWord: vechicleN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: vehemenceN ;  V: 234 ;  E: 104
+ T: 0.01
+P:45 ; EV: TWord: veraxiooN ;  V: 304 ;  E: 42556
+ T: 0.16
+P:45 ; EV: TWord: vladgN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: voulonN ;  V: 33 ;  E: 414
+ T: 0
+P:45 ; EV: TWord: vulgariN ;  V: 57 ;  E: 276
+ T: 0
+P:45 ; EV: TWord: vvN ;  V: 686 ;  E: 302678
+ T: 1.62
+P:45 ; EV: TWord: waterscapeN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: week­endN ;  V: 12 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: wheatonixN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: whitenerN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: winegrapeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: wyndhamN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: xiangfuN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: xkcdN ;  V: 14 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: xpathN ;  V: 10 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: yakkinN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: yokelN ;  V: 57 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: yytextN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: äººäN ;  V: 44 ;  E: 688
+ T: 0
+P:45 ; EV: TWord: éditionN ;  V: 24 ;  E: 62
+ T: 0
+P:45 ; EV: TWord: éeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: íslenskaN ;  V: 124 ;  E: 2800
+ T: 0.01
+P:45 ; EV: TWord: къмN ;  V: 27 ;  E: 300
+ T: 0
+P:45 ; EV: TWord: ѕoN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: מיN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: بِاللَّهِN ;  V: 15 ;  E: 128
+ T: 0
+P:45 ; EV: TWord: يتمN ;  V: 4 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: 경우N ;  V: 10 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: 아찔한N ;  V: 0 ;  E: 0
+ T: 0
+P:45 VM: 2518.99; RSS: 2.19412e+06
+
+P:45. Round Number: 3
+P:45 .Sending till2564/2564 flwords size: 37685
+P:45 ; EV: TWord: aaluN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: adaptationN ;  V: 3828 ;  E: 83130
+ T: 4.96
+P:45 ; EV: TWord: adapterN ;  V: 979 ;  E: 2708
+ T: 0.27
+P:45 ; EV: TWord: adsorbN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: agenciaN ;  V: 9 ;  E: 56
+ T: 0
+P:45 ; EV: TWord: agroN ;  V: 23 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: alterityN ;  V: 54 ;  E: 54
+ T: 0
+P:45 ; EV: TWord: amidstN ;  V: 2573 ;  E: 4186
+ T: 1.66
+P:45 ; EV: TWord: anabasisN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: analyzationN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: apporN ;  V: 29 ;  E: 134
+ T: 0.01
+P:45 ; EV: TWord: arboretaN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: arrayN ;  V: 5319 ;  E: 31484
+ T: 7.43
+P:45 ; EV: TWord: autodidactN ;  V: 38 ;  E: 16
+ T: 0.01
+P:45 ; EV: TWord: aviyalN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: baronessN ;  V: 122 ;  E: 88
+ T: 0
+P:45 ; EV: TWord: basemenN ;  V: 30 ;  E: 90
+ T: 0
+P:45 ; EV: TWord: batmanN ;  V: 316 ;  E: 7890
+ T: 0.08
+P:45 ; EV: TWord: battlefleetN ;  V: 13 ;  E: 22
+ T: 0
+P:45 ; EV: TWord: beatmasterN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: betwenN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: biorepositoryN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: bottlebrushN ;  V: 7 ;  E: 30
+ T: 0
+P:45 ; EV: TWord: bruthaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: canzonaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cessationistN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: chaoN ;  V: 1402 ;  E: 1507182
+ T: 13.63
+P:45 ; EV: TWord: chaperoneN ;  V: 284 ;  E: 1428
+ T: 0.04
+P:45 ; EV: TWord: chirashiN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: classistN ;  V: 57 ;  E: 64
+ T: 0
+P:45 ; EV: TWord: controversalN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: convirtióN ;  V: 7 ;  E: 42
+ T: 0
+P:45 ; EV: TWord: coproductN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cornhuskerN ;  V: 21 ;  E: 20
+ T: 0
+P:45 ; EV: TWord: crateN ;  V: 689 ;  E: 1296
+ T: 0.14
+P:45 ; EV: TWord: creaturelinessN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: cumannN ;  V: 7 ;  E: 8
+ T: 0
+P:45 ; EV: TWord: cuttN ;  V: 5 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: daoN ;  V: 106 ;  E: 3320
+ T: 0
+P:45 ; EV: TWord: darinN ;  V: 1405 ;  E: 1506974
+ T: 13.66
+P:45 ; EV: TWord: daubeN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: decaydanceN ;  V: 3 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: deepnessN ;  V: 5 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: definerN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: delivN ;  V: 8 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: didnʼtN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: digraphN ;  V: 32 ;  E: 26
+ T: 0.02
+P:45 ; EV: TWord: diplayN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: dunnN ;  V: 638 ;  E: 53490
+ T: 0.4
+P:45 ; EV: TWord: dénouementN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ejN ;  V: 411 ;  E: 726
+ T: 0.08
+P:45 ; EV: TWord: elaiosomeN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: emperourN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: europeoN ;  V: 47 ;  E: 1348
+ T: 0.01
+P:45 ; EV: TWord: evangelicalismN ;  V: 397 ;  E: 21716
+ T: 0.15
+P:45 ; EV: TWord: evoirN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: exerptN ;  V: 3 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: fatheadN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: filleN ;  V: 1646 ;  E: 471350
+ T: 3.46
+P:45 ; EV: TWord: flagbearerN ;  V: 21 ;  E: 60
+ T: 0
+P:45 ; EV: TWord: flavescentN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: flourescentN ;  V: 9 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: fortyN ;  V: 3238 ;  E: 7062
+ T: 2.62
+P:45 ; EV: TWord: foundationalismN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gasmN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gaurN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gaurdianN ;  V: 7 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: gemeinsamN ;  V: 7 ;  E: 34
+ T: 0
+P:45 ; EV: TWord: gnosisN ;  V: 17 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gobshiteryN ;  V: 10 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: grammaN ;  V: 12 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: graphidaceaN ;  V: 4 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: grawnolaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: griegaN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: gunmanN ;  V: 800 ;  E: 1158
+ T: 0.19
+P:45 ; EV: TWord: hattitudeN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: heliconiusN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hendaklahN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hexadecamerN ;  V: 24 ;  E: 90
+ T: 0
+P:45 ; EV: TWord: highteN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: holdallN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: hypoacusisN ;  V: 13 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: ienN ;  V: 131 ;  E: 2462
+ T: 0.01
+P:45 ; EV: TWord: ingratiateN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: invovleN ;  V: 8 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: isoimmunizationN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: jewishnessN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: kennesawN ;  V: 11 ;  E: 64
+ T: 0
+P:45 ; EV: TWord: kigoN ;  V: 6 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: kritiekN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: lakiN ;  V: 9 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: largeN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: lawbookN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: lettenN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: liberallN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: libyaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: liposarcomaN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: lipserviceN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: locomotorN ;  V: 33 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: loremaN ;  V: 142 ;  E: 356
+ T: 0
+P:45 ; EV: TWord: luarN ;  V: 1392 ;  E: 1506866
+ T: 13.6
+P:45 ; EV: TWord: mariachusN ;  V: 19 ;  E: 34
+ T: 0
+P:45 ; EV: TWord: marocaineN ;  V: 1216 ;  E: 283262
+ T: 1.71
+P:45 ; EV: TWord: marrowN ;  V: 1014 ;  E: 6456
+ T: 0.3
+P:45 ; EV: TWord: mentholN ;  V: 66 ;  E: 38
+ T: 0
+P:45 ; EV: TWord: mfrN ;  V: 43 ;  E: 204
+ T: 0.01
+P:45 ; EV: TWord: miciN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: microdissectionN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: miliardiN ;  V: 5 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: millenialN ;  V: 522 ;  E: 66644
+ T: 0.33
+P:45 ; EV: TWord: moraoN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: moutheN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: moventN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: mshN ;  V: 8 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: msutN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: newtonvilleN ;  V: 27 ;  E: 106
+ T: 0
+P:45 ; EV: TWord: nigiriN ;  V: 34 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: nocodazoleN ;  V: 13 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: nonchalantN ;  V: 69 ;  E: 80
+ T: 0
+P:45 ; EV: TWord: oftheN ;  V: 104 ;  E: 60
+ T: 0
+P:45 ; EV: TWord: orthographyN ;  V: 258 ;  E: 528
+ T: 0.02
+P:45 ; EV: TWord: oviductN ;  V: 9 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: owN ;  V: 337 ;  E: 1194
+ T: 0.06
+P:45 ; EV: TWord: paltzN ;  V: 4 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: parametroN ;  V: 5 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: parqueN ;  V: 11 ;  E: 46
+ T: 0
+P:45 ; EV: TWord: phononN ;  V: 111 ;  E: 126
+ T: 0
+P:45 ; EV: TWord: pierheadN ;  V: 3 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: plakiN ;  V: 302 ;  E: 43018
+ T: 0.16
+P:45 ; EV: TWord: pnpN ;  V: 28 ;  E: 416
+ T: 0
+P:45 ; EV: TWord: porayN ;  V: 3 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: portuguesaN ;  V: 5 ;  E: 10
+ T: 0
+P:45 ; EV: TWord: posi­tionN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: präsentierenN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: quetN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: quinoloneN ;  V: 7 ;  E: 4
+ T: 0
+P:45 ; EV: TWord: rahatN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: relaityN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: repsonsibilityN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: republicanismN ;  V: 170 ;  E: 620
+ T: 0.01
+P:45 ; EV: TWord: retaliationN ;  V: 1142 ;  E: 1992
+ T: 0.37
+P:45 ; EV: TWord: revitalizeN ;  V: 334 ;  E: 474
+ T: 0.07
+P:45 ; EV: TWord: riseupN ;  V: 50 ;  E: 156
+ T: 0
+P:45 ; EV: TWord: sagradoN ;  V: 3 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: scepticismN ;  V: 468 ;  E: 1228
+ T: 0.11
+P:45 ; EV: TWord: securiteN ;  V: 407 ;  E: 64980
+ T: 0.27
+P:45 ; EV: TWord: sexologistN ;  V: 48 ;  E: 26
+ T: 0
+P:45 ; EV: TWord: showmanshipN ;  V: 47 ;  E: 24
+ T: 0
+P:45 ; EV: TWord: shuarmaN ;  V: 1392 ;  E: 1506866
+ T: 12.4
+P:45 ; EV: TWord: sisyrinchiumN ;  V: 7 ;  E: 14
+ T: 0
+P:45 ; EV: TWord: sleddingN ;  V: 134 ;  E: 710
+ T: 0
+P:45 ; EV: TWord: smartnessN ;  V: 35 ;  E: 12
+ T: 0
+P:45 ; EV: TWord: smtN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: solicitorN ;  V: 868 ;  E: 2858
+ T: 0.25
+P:45 ; EV: TWord: strongmanN ;  V: 153 ;  E: 154
+ T: 0
+P:45 ; EV: TWord: sweetestN ;  V: 565 ;  E: 386
+ T: 0.09
+P:45 ; EV: TWord: tassetN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tbolN ;  V: 42 ;  E: 78
+ T: 0
+P:45 ; EV: TWord: technakohlN ;  V: 144 ;  E: 4540
+ T: 0.02
+P:45 ; EV: TWord: tetrationN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: thailandN ;  V: 295 ;  E: 30064
+ T: 0.1
+P:45 ; EV: TWord: thermogramN ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tokiN ;  V: 17 ;  E: 166
+ T: 0
+P:45 ; EV: TWord: tpuN ;  V: 11 ;  E: 74
+ T: 0
+P:45 ; EV: TWord: traipsN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: tratandoN ;  V: 17 ;  E: 190
+ T: 0
+P:45 ; EV: TWord: tweedyN ;  V: 5 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ulterioreN ;  V: 3 ;  E: 6
+ T: 0
+P:45 ; EV: TWord: undulateN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: uptickN ;  V: 167 ;  E: 106
+ T: 0
+P:45 ; EV: TWord: ventailN ;  V: 2 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: vicaN ;  V: 12 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: videolectureN ;  V: 9 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: visuaiN ;  V: 5 ;  E: 14
+ T: 0
+P:45 ; EV: TWord: vocêsN ;  V: 11 ;  E: 74
+ T: 0
+P:45 ; EV: TWord: votadaN ;  V: 22 ;  E: 290
+ T: 0
+P:45 ; EV: TWord: votarN ;  V: 2 ;  E: 2
+ T: 0
+P:45 ; EV: TWord: westcoastN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: yrevN ;  V: 19 ;  E: 202
+ T: 0
+P:45 ; EV: TWord: æN ;  V: 165 ;  E: 2960
+ T: 0.01
+P:45 ; EV: TWord: æqueN ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: ìN ;  V: 64 ;  E: 434
+ T: 0
+P:45 ; EV: TWord: ð˜ðN ;  V: 19 ;  E: 230
+ T: 0
+P:45 ; EV: TWord: वहN ;  V: 122 ;  E: 5454
+ T: 0.02
+P:45 ; EV: TWord: ✔N ;  V: 16 ;  E: 48
+ T: 0
+P:45 ; EV: TWord: ⩽N ;  V: 12 ;  E: 16
+ T: 0
+P:45 ; EV: TWord: 我N ;  V: 5 ;  E: 16
+ T: 0
+P:45 ; EV: TWord: 或者N ;  V: 5 ;  E: 18
+ T: 0
+P:45 ; EV: TWord: 男N ;  V: 0 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: 쓸N ;  V: 1 ;  E: 0
+ T: 0
+P:45 ; EV: TWord: 크기N ;  V: 0 ;  E: 0
+ T: 0
+P:45 VM: 2518.99; RSS: 2.22377e+06
+
+P:45. Round Number: 4
+P:45 .Sending till2564/2564 flwords size: 0
+P:45 VM: 2518.99; RSS: 2.22417e+06
+
+P:45. Round Number: 5
+
+Time taken for graph515.45 SL 3675.78
+
+P:45 Individual time taken for SL: 3378.96
+P:45. Uncompress time: 0.9
+P:45WSD Time256.87
+ Total Time taken to disambiguate: 4340.05

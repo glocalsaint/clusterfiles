@@ -1,0 +1,4 @@
+Modules: loading gcc/4.9.4
+Modules: loading openmpi/gcc/1.10.3
+Modules: loading boost/1.60.0
+slurmstepd: error: *** JOB 1116618 ON hpa0571 CANCELLED AT 2016-11-04T11:25:16 DUE TO TIME LIMIT ***
